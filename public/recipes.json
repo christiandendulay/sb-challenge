@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Johny",
+    "title": "Pasta Carbonara",
+    "image": "/curry.jpeg",
+    "isFavorite": false,
+    "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequatur architecto, provident, at libero doloribus magnam eius dignissimos distinctio molestiae consequuntur optio eligendi praesentium error voluptatum exercitationem ut natus fuga ducimus quam incidunt hic vitae. Vitae exercitationem alias nulla temporibus minima corrupti maiores amet ex, quia non eius voluptate sint, illum delectus repudiandae? Quibusdam obcaecati, tempore expedita aliquam modi, officia nulla harum veritatis, commodi sapiente consequuntur suscipit consequatur aliquid voluptates consectetur? Esse tempore nobis autem atque quisquam adipisci porro, delectus pariatur perspiciatis necessitatibus architecto maxime placeat doloribus minima exercitationem eaque aliquam commodi magni iusto eius quibusdam. Provident ut quam sit quidem.",
+    "ingredients": "asdasdsad",
+    "instructions": "asdasdas",
+    "email": "email@address.com"
+  },
+  {
+    "name": "Name",
+    "title": "Chicken Curry",
+    "image": "/curry.jpeg",
+    "isFavorite": false,
+    "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequatur architecto, provident, at libero doloribus magnam eius dignissimos distinctio molestiae consequuntur optio eligendi praesentium error voluptatum exercitationem ut natus fuga ducimus quam incidunt hic vitae. Vitae exercitationem alias nulla temporibus minima corrupti maiores amet ex, quia non eius voluptate sint, illum delectus repudiandae? Quibusdam obcaecati, tempore expedita aliquam modi, officia nulla harum veritatis, commodi sapiente consequuntur suscipit consequatur aliquid voluptates consectetur? Esse tempore nobis autem atque quisquam adipisci porro, delectus pariatur perspiciatis necessitatibus architecto maxime placeat doloribus minima exercitationem eaque aliquam commodi magni iusto eius quibusdam. Provident ut quam sit quidem.",
+    "ingredients": "",
+    "instructions": ""
+  },
+  {
+    "name": "asdasda",
+    "title": "asdasdasd",
+    "description": "asdasdas",
+    "ingredients": "dasdasd",
+    "instructions": "asdasdas",
+    "email": "asdasd@gagag",
+    "isFavorite": false,
+    "image": "",
+    "dateCreated": "Sat Aug 31 2024 16:07:52 GMT+0800 (Philippine Standard Time)"
+  }
+]
